@@ -1,1 +1,1 @@
-# -AstroSage-Analysis
+Astrosage has received a 1 Crore investment. The goal is to determine how to allocate this investment to maximize operational efficiency, customer satisfaction, and profitability. This project will involve analyzing historical call data, performance metrics, and market trends to make informed decisions.
